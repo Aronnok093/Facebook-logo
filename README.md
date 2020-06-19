@@ -6,7 +6,7 @@
 <li>Set up an account, login</li>
 <li>Go to Domains -> Add a Domain to FreeDNS Domain: yourdomain.com Shared State: Shared: Public</i>
 <li>Go to Domains -> yourdomain.com -> Manage</li>
-<li>Click the Add button at the top-right Type: A Subdomain: blank Domain: yourdomain.com (public)(broken!) Destination: 192.30.252.153<li> <li>Wildcard: ticked</li>
+<li>Click the Add button at the top-right Type: A Subdomain: blank Domain: yourdomain.com (public)(broken!) Destination: 192.30.252.153</li> <li>Wildcard: ticked</li>
 <li>Click the Add button next to yourdomain.com again, same settings as last time, but this time use the ip: 192.30.252.154</li>
 
 <li>to GitHub.com, create an account, and login</li>
@@ -19,8 +19,8 @@
 <li>Back on your repo's page, click Branch: master and change to the gh-pages branch</li>
 <li>Next to the Branch selector, it will show yourdomain.com, followed by a / and a +. Click the + to create a new file.</li>
 <li>Name the file CNAME and put yourdomain.com inside as the contents, click Commit new file to save it.</li>
-  </ol>
-  <ul>
+</ol>
+<ul>
 <li>185.199.108.153</li>
 <li>185.199.109.153</li>
 <li>185.199.110.153</li>
