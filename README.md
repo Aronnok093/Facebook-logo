@@ -1,5 +1,5 @@
 <a href="https://aronnok093.github.io/Facebook-logo-code-with-html-and-css/facebook_lo.html">Open Link</a>
-github custom domain ip:
+<!--github custom domain ip:
 CNAME
 www.example.com
 Set up an account, login
@@ -23,3 +23,4 @@ Name the file CNAME and put yourdomain.com inside as the contents, click Commit 
 185.199.109.153
 185.199.110.153
 185.199.111.153
+-->
