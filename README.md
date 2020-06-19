@@ -9,7 +9,7 @@
 <li>Click the Add button at the top-right Type: A Subdomain: blank Domain: yourdomain.com (public)(broken!) Destination: 192.30.252.153</li> <li>Wildcard: ticked</li>
 <li>Click the Add button next to yourdomain.com again, same settings as last time, but this time use the ip: 192.30.252.154</li>
 <li>to GitHub.com, create an account, and login</li>
-<li>Create a new Repository, mame it yourdomain.com, leave it as Public, and tick `Initialize this repository with a README``<li>
+<li>Create a new Repository, mame it yourdomain.com, leave it as Public, and tick `Initialize this repository with a README``</li>
 <li>Click Settings (in the right-middle -- for the repo, not for your account)</li>
 <li>Under Github Pages click Automatic page generator</li>
 <li>Make any changes you like, put in a Google Analytics ID if you want awesome free stats, click Continue to layouts</li>
