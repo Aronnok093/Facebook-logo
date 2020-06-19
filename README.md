@@ -1,5 +1,5 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<a href="https://aronnok093.github.io/Facebook-logo-code-with-html-and-css/facebook_lo.html"><i class ="fa fa-fw fa-search"></i></a>Open Link</a>
+<a href="https://aronnok093.github.io/Facebook-logo-code-with-html-and-css/facebook_lo.html"><i class ="fa fa-fw fa-search"></i>Open Link</a>
 <!--github custom domain ip:
 CNAME
 www.example.com
