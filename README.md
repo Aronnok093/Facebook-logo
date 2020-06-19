@@ -2,7 +2,7 @@
 <ol>
 <li>github custom domain ip:</li>
 <li>CNAME</li>
-<li>www.example.com</li>
+<li>www.fardinjaa.blogspot.com/</li>
 <li>Set up an account, login</li>
 <li>Go to Domains -> Add a Domain to FreeDNS Domain: yourdomain.com Shared State: Shared: Public</i>
 <li>Go to Domains -> yourdomain.com -> Manage</li>
