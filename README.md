@@ -1,8 +1,8 @@
-<a href="https://aronnok093.github.io/Facebook-logo-code-with-html-and-css/facebook_lo.html">Open Link</a>
+<a href="https://aronnok093.github.io/Facebook-logo-code-with-html-and-css/facebook_lo.html">Open Link For Facebook Lago</a>
 <ol>
 <li>github custom domain ip:</li>
 <li>CNAME</li>
-<li>www.fardinjaa.blogspot.com/</li>
+<li>href="www.fardinjaa.blogspot.com/"</li>
 <li>Set up an account, login</li>
 <li>Go to Domains -> Add a Domain to FreeDNS Domain: yourdomain.com Shared State: Shared: Public</i>
 <li>Go to Domains -> yourdomain.com -> Manage</li>
