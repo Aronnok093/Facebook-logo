@@ -18,7 +18,6 @@
 <li>Back on your repo's page, click Branch: master and change to the gh-pages branch</li>
 <li>Next to the Branch selector, it will show yourdomain.com, followed by a / and a +. Click the + to create a new file.</li>
 <li>Name the file CNAME and put yourdomain.com inside as the contents, click Commit new file to save it.</li>
- </ol>
 <ul>
 <li>185.199.108.153</li>
 <li>185.199.109.153</li>
